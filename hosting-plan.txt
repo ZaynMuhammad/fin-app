@@ -1,0 +1,8 @@
+Folder	        Purpose	                            EAS Hosting Impact
+app/api/	    API routes (serverless functions)	Deployed as endpoints
+app/(tabs)/	    Main app screens	                Client-side only (in app build)
+app/(modals)/	Modal screens	                    Client-side only (in app build)
+components/	    Shared UI components	            Client-side only (in app build)
+lib/	        Utilities, API handlers, schemas	Importable everywhere
+convex/	        Convex backend logic	            Not deployed by EAS
+types/	        TypeScript types	                Importable everywhere

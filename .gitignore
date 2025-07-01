@@ -40,3 +40,8 @@ yarn-error.*
 app-example
 
 .cursor/*
+app/.cursor/*
+components/.cursor/*
+db/.cursor/*
+app/(auth)/.cursor/*
+app/api/.cursor/*
