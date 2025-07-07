@@ -8,6 +8,7 @@
 - Setup Linear
 - Make issues and sub braches
 - code rabbit
+- Swap SafeAreaView from react-native to react-native-safe-area-context from expo. Need to wrap it in SafeAreaProvider to test on web
 
 ## Check out this for sims
 
